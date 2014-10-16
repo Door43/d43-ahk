@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ahk:home|Door43 (ahk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ahk|d43-ahk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ahk/archive/master.zip|d43-ahk.zip]]
+
+**Recent Changes**
+{{changes>ns = ahk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ahk|Ethnologue data]]
+
